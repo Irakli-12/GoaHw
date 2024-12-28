@@ -1,0 +1,29 @@
+.ol1{
+    list-style-position: inside;
+    list-style-type: upper-alpha;
+}
+
+.ul1 {
+    list-style-type: none;
+}
+
+.div1 {
+    width: 500px;
+    height: 500px;
+    background-color: yellow;
+    border-top-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
+
+input[type="name"] {
+    background-color: aqua;
+
+}
+input[type="surname"] {
+    background-color: aqua;
+
+}
+input[type="gmail"] {
+    background-color: aqua;
+
+}
